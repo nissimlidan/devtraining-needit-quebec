@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_header">
+    <sys_ws_header action="DELETE">
+        <example_value>xxx@example.com</example_value>
+        <name>Form</name>
+        <required>false</required>
+        <short_description>Email address of the user making the request</short_description>
+        <sys_class_name>sys_ws_header</sys_class_name>
+        <sys_created_by>lidanN</sys_created_by>
+        <sys_created_on>2021-04-25 09:25:23</sys_created_on>
+        <sys_id>d12e99a02f73201076aed8492799b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Form</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_header_d12e99a02f73201076aed8492799b621</sys_update_name>
+        <sys_updated_by>lidanN</sys_updated_by>
+        <sys_updated_on>2021-04-25 09:25:23</sys_updated_on>
+        <web_service_definition display_value="Web service demo">7f3355e82f33201076aed8492799b6d3</web_service_definition>
+    </sys_ws_header>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>25684261dbee449442b321c405961980</instance_id>
+        <instance_name>dev97575</instance_name>
+        <name>sys_ws_header_d12e99a02f73201076aed8492799b621</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_header"><sys_ws_header action="INSERT_OR_UPDATE"><example_value>xxx@example.com</example_value><name>Form</name><required>false</required><short_description>Email address of the user making the request</short_description><sys_class_name>sys_ws_header</sys_class_name><sys_created_by>lidanN</sys_created_by><sys_created_on>2021-04-25 09:25:23</sys_created_on><sys_id>d12e99a02f73201076aed8492799b621</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Form</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ws_header_d12e99a02f73201076aed8492799b621</sys_update_name><sys_updated_by>lidanN</sys_updated_by><sys_updated_on>2021-04-25 09:25:23</sys_updated_on><web_service_definition display_value="Web service demo">7f3355e82f33201076aed8492799b6d3</web_service_definition></sys_ws_header></record_update>]]></payload>
+        <payload_hash>-2078050274</payload_hash>
+        <record_name>Form</record_name>
+        <reverted_from/>
+        <source>24c728082f13a01076aed8492799b6a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>lidanN</sys_created_by>
+        <sys_created_on>2021-04-25 09:25:23</sys_created_on>
+        <sys_id>1e5e15a02f73201076aed8492799b619</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17908590aad0000001</sys_recorded_at>
+        <sys_updated_by>lidanN</sys_updated_by>
+        <sys_updated_on>2021-04-25 09:25:23</sys_updated_on>
+        <type>Scripted REST Header</type>
+        <update_guid>565e15a0597320107fcc5b2b5bfe0f19</update_guid>
+        <update_guid_history>565e15a0597320107fcc5b2b5bfe0f19:-2078050274</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>lidanN</sys_created_by>
+        <sys_created_on>2021-04-25 09:27:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_header">sys_ws_header</sys_db_object>
+        <sys_id>418ef59cab0f4f20923ef2aa2ef5de10</sys_id>
+        <sys_metadata>d12e99a02f73201076aed8492799b621</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Form</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ws_header_d12e99a02f73201076aed8492799b621</sys_update_name>
+        <sys_update_version display_value="sys_ws_header_d12e99a02f73201076aed8492799b621">1e5e15a02f73201076aed8492799b619</sys_update_version>
+        <sys_updated_by>lidanN</sys_updated_by>
+        <sys_updated_on>2021-04-25 09:27:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

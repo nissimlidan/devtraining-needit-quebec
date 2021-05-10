@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition">
+    <sys_ws_definition action="DELETE">
+        <active>true</active>
+        <base_uri>/api/x_58872_needit/ni_getinfo</base_uri>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_version>No active default version</default_version>
+        <doc_link/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <is_versioned>false</is_versioned>
+        <name>ni_getinfo</name>
+        <namespace>x_58872_needit</namespace>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <service_id>ni_getinfo</service_id>
+        <short_description/>
+        <sys_class_name>sys_ws_definition</sys_class_name>
+        <sys_created_by>lidanN</sys_created_by>
+        <sys_created_on>2021-04-25 10:45:12</sys_created_on>
+        <sys_id>7180f9ac2f73201076aed8492799b6da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ni_getinfo</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_definition_7180f9ac2f73201076aed8492799b6da</sys_update_name>
+        <sys_updated_by>lidanN</sys_updated_by>
+        <sys_updated_on>2021-04-25 10:45:12</sys_updated_on>
+    </sys_ws_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>25684261dbee449442b321c405961980</instance_id>
+        <instance_name>dev97575</instance_name>
+        <name>sys_ws_definition_7180f9ac2f73201076aed8492799b6da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition"><sys_ws_definition action="INSERT_OR_UPDATE"><active>true</active><base_uri>/api/x_58872_needit/ni_getinfo</base_uri><consumes>application/json,application/xml,text/xml</consumes><consumes_customized>false</consumes_customized><default_version>No active default version</default_version><doc_link/><enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl><is_versioned>false</is_versioned><name>ni_getinfo</name><namespace>x_58872_needit</namespace><produces>application/json,application/xml,text/xml</produces><produces_customized>false</produces_customized><service_id>ni_getinfo</service_id><short_description/><sys_class_name>sys_ws_definition</sys_class_name><sys_created_by>lidanN</sys_created_by><sys_created_on>2021-04-25 10:45:12</sys_created_on><sys_id>7180f9ac2f73201076aed8492799b6da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ni_getinfo</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ws_definition_7180f9ac2f73201076aed8492799b6da</sys_update_name><sys_updated_by>lidanN</sys_updated_by><sys_updated_on>2021-04-25 10:45:12</sys_updated_on></sys_ws_definition></record_update>]]></payload>
+        <payload_hash>-7774204</payload_hash>
+        <record_name>ni_getinfo</record_name>
+        <reverted_from/>
+        <source>24c728082f13a01076aed8492799b6a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>lidanN</sys_created_by>
+        <sys_created_on>2021-04-25 10:45:12</sys_created_on>
+        <sys_id>5790b1202fb3201076aed8492799b631</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17908a21b500000001</sys_recorded_at>
+        <sys_updated_by>lidanN</sys_updated_by>
+        <sys_updated_on>2021-04-25 10:45:12</sys_updated_on>
+        <type>Scripted REST API</type>
+        <update_guid>9f90b12006b320107561adb78ba89330</update_guid>
+        <update_guid_history>9f90b12006b320107561adb78ba89330:-7774204</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>lidanN</sys_created_by>
+        <sys_created_on>2021-04-25 10:45:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ws_definition">sys_ws_definition</sys_db_object>
+        <sys_id>bff4ed96f26e4b349147fa43137f9b10</sys_id>
+        <sys_metadata>7180f9ac2f73201076aed8492799b6da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ni_getinfo</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ws_definition_7180f9ac2f73201076aed8492799b6da</sys_update_name>
+        <sys_update_version display_value="sys_ws_definition_7180f9ac2f73201076aed8492799b6da">5790b1202fb3201076aed8492799b631</sys_update_version>
+        <sys_updated_by>lidanN</sys_updated_by>
+        <sys_updated_on>2021-04-25 10:45:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
